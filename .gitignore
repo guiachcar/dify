@@ -206,3 +206,5 @@ plugins.jsonl
 
 # mise
 mise.toml
+
+!web/.env
